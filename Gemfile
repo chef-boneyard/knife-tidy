@@ -27,7 +27,7 @@ group :development do
     gem "contracts", "~> 0.17.2"
     gem "chef-zero"
     gem "chef", "~> 18"
-    gem "knife", "~> 18"
+    gem "knife", "~> 19"
     gem "aruba"
     gem "fakefs"
   end
